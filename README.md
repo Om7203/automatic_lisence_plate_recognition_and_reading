@@ -32,5 +32,5 @@ python add_missing_data.py
 python visualize.py
 ```
 
-For the input video as example the name is sample.mp4
+For the input video as example the name is sample1.mp4
 At last the final output is saved with the name of out.mp4
